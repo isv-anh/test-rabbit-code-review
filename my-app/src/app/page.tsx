@@ -22,7 +22,7 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Templates
+              Templates test
             </a>{" "}
             or the{" "}
             <a
