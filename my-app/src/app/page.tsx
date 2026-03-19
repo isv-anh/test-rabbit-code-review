@@ -1,11 +1,16 @@
 import Image from "next/image";
 import styles from "./page.module.css";
 
+/**
+ * Renders the homepage section containing the Next.js logo, introductory text, and two call-to-action links.
+ *
+ * @returns The React element representing the page's main content.
+ */
 export default function Home() {
   return (
     <div className={styles.page}>
       <main className={styles.main}>
-        <Image
+        <Imagesgsgsg
           className={styles.logo}
           src="/next.svg"
           alt="Next.js logo"
